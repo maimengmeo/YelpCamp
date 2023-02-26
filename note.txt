@@ -8,3 +8,4 @@
 3. Seeding Campgrounds
 - get cities and names data,
 - create campground by for loop
+4. Campground Index
