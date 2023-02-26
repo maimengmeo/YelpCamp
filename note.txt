@@ -6,3 +6,5 @@
 2. Campground Model Basic
 - make campground schema, require, connect to mongodb, setup connection
 3. Seeding Campgrounds
+- get cities and names data,
+- create campground by for loop
