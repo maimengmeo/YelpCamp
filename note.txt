@@ -1,3 +1,5 @@
+***mongosh
+
 1. Create Express App
 - init npm, init mongoose, express, ejs
 - ejs file, set template engine for rendering dynamic contect to ejs, spec directory where ejs template stored
