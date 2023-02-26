@@ -5,3 +5,4 @@
 - ejs file, set template engine for rendering dynamic contect to ejs, spec directory where ejs template stored
 2. Campground Model Basic
 - make campground schema, require, connect to mongodb, setup connection
+3. Seeding Campgrounds
