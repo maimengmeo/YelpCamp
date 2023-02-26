@@ -1,1 +1,3 @@
 - init npm, init mongoose, express, ejs
+- ejs file, set template engine for rendering dynamic contect to ejs, spec directory where ejs template stored
+- make campground schema, require, connect to mongodb, setup connection
